@@ -1,2 +1,2 @@
 # TicTacToe
- TiTacToe_Python
+ TicTacToe_Python
